@@ -12,3 +12,6 @@
  <br>
  <a href="https://zhuanlan.zhihu.com/p/448904350" target="_blank">GAMES 101 作业1：旋转三角形</a>
  <br>
+###关于环境配置：
+ <br>
+ <a href="https://zhuanlan.zhihu.com/p/446633542" target="_blank">GAMES101 作业0：小白环境配置</a>
