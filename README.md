@@ -2,9 +2,9 @@
 <br>
 <a href="http://games-cn.org/forums/topic/allhw/" target="_blank">作业网址</a>
 <br>
-本项目作业部分由本人实现，可以直接下载代码到本地运行。
+本项目作业部分由本人实现，可以直接下载代码到本地运行并参考。
 <br>
 关于作业的解析见知乎文章：
 <br>
- <a href="https://zhuanlan.zhihu.com/p/468603262" target="_blank">计算机图形学 入门篇 10. 光追III 蒙特卡洛路径追踪(Path Tracing)</a>
+ <a href="https://zhuanlan.zhihu.com/p/465058581" target="_blank">GAMES 101 作业3：渲染小奶牛</a>
  <br>
