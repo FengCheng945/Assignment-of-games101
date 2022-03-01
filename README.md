@@ -8,3 +8,7 @@
 <br>
  <a href="https://zhuanlan.zhihu.com/p/465058581" target="_blank">GAMES 101 作业3：渲染小奶牛</a>
  <br>
+ <a href="https://zhuanlan.zhihu.com/p/451399111" target="_blank">GAMES 101 作业2：光栅化＋抗锯齿</a>
+ <br>
+ <a href="https://zhuanlan.zhihu.com/p/448904350" target="_blank">GAMES 101 作业1：旋转三角形</a>
+ <br>
