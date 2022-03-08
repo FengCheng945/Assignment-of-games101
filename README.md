@@ -6,6 +6,10 @@
 <br>
 关于作业的解析见知乎文章：
 <br>
+<a href="https://zhuanlan.zhihu.com/p/475136497" target="_blank">GAMES 101 作业5：Recursive(Whitted-Style) Ray Tracing实现</a>
+ <br>
+<a href="https://zhuanlan.zhihu.com/p/474776825" target="_blank">GAMES 101 作业4：贝塞尔曲线</a>
+ <br>
  <a href="https://zhuanlan.zhihu.com/p/465058581" target="_blank">GAMES 101 作业3：渲染小奶牛</a>
  <br>
  <a href="https://zhuanlan.zhihu.com/p/451399111" target="_blank">GAMES 101 作业2：光栅化＋抗锯齿</a>
