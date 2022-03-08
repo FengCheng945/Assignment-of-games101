@@ -6,6 +6,8 @@
 <br>
 关于作业的解析见知乎文章：
 <br>
+<a href="https://zhuanlan.zhihu.com/p/475966001" target="_blank">GAMES 101 作业6：BVH与SAH(Surface Area Heuristic)</a>
+ <br>
 <a href="https://zhuanlan.zhihu.com/p/475136497" target="_blank">GAMES 101 作业5：Recursive(Whitted-Style) Ray Tracing实现</a>
  <br>
 <a href="https://zhuanlan.zhihu.com/p/474776825" target="_blank">GAMES 101 作业4：贝塞尔曲线</a>
