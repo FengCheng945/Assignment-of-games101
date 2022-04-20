@@ -1,4 +1,6 @@
 ## 计算机图形学课程作业（内容来自：<a href="https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html" target="_blank">Games101</a>）
+
+欢迎访问我的图形学最新项目：<a href="https://github.com/FengCheng945/MyTinyRenderer" target="_blank">tinyrenderer</a>
 <br>
 <a href="http://games-cn.org/forums/topic/allhw/" target="_blank">作业网址</a>
 <br>
